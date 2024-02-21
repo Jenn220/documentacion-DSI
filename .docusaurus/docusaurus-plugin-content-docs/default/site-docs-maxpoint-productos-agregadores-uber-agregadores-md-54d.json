@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Agregadores_Uber/Agregadores",
+  "title": "CONFIGURACIÓN DE AGREGADORES.",
+  "description": "1.\tANTECEDENTES",
+  "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/Agregadores.md",
+  "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+  "slug": "/Maxpoint/Productos/Agregadores_Uber/Agregadores",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Agregadores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/Agregadores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Productos",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios"
+  },
+  "next": {
+    "title": "CONFIGURACIÓN DE AGREGADORES.",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores"
+  }
+}

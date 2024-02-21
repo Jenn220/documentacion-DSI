@@ -41,8 +41,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Maxpoint/Productos/Descargar Productos y Precios",
               "path": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/DUNA/Duna",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Formas de Pago/Formas de Pago",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Go_Trade/Texto go trade",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\github\\test1\\documentacion-DSI\\sidebars.js",
-          "contentPath": "C:\\github\\test1\\documentacion-DSI\\docs",
-          "contentPathLocalized": "C:\\github\\test1\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\ONE DRIVE\\OneDrive\\Desktop\\documentacion-DSI\\sidebars.js",
+          "contentPath": "C:\\ONE DRIVE\\OneDrive\\Desktop\\documentacion-DSI\\docs",
+          "contentPathLocalized": "C:\\ONE DRIVE\\OneDrive\\Desktop\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
@@ -170,6 +170,102 @@
               }
             },
             {
+              "id": "Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+              "title": "CONFIGURACIÓN Uber Eats, Glovo, Etc.",
+              "description": "1.\tANTECEDENTES",
+              "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES.md",
+              "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+              "slug": "/Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios"
+              },
+              "next": {
+                "title": "CONFIGURACIÓN DE AGREGADORES.",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+              "title": "CONFIGURACIÓN DE AGREGADORES.",
+              "description": "1. ANTECEDENTES",
+              "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores.md",
+              "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+              "slug": "/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CONFIGURACIÓN Uber Eats, Glovo, Etc.",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES"
+              },
+              "next": {
+                "title": "MANUAL DE CONFIGURACION PROCESO UBER",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+              "title": "MANUAL DE CONFIGURACION PROCESO UBER",
+              "description": "1.\tOBJETIVOS",
+              "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER.md",
+              "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+              "slug": "/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CONFIGURACIÓN DE AGREGADORES.",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores"
+              },
+              "next": {
+                "title": "MANUAL DE USUARIO UBER",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+              "title": "MANUAL DE USUARIO UBER",
+              "description": "1.\tOBJETIVOS",
+              "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER.md",
+              "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+              "slug": "/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MANUAL DE CONFIGURACION PROCESO UBER",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER"
+              },
+              "next": {
+                "title": "DUNA",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/"
+              }
+            },
+            {
               "id": "Maxpoint/Productos/Descargar Productos y Precios",
               "title": "Productos",
               "description": "1.\tProductos",
@@ -190,6 +286,102 @@
               "previous": {
                 "title": "Productos",
                 "permalink": "/documentacion-DSI/docs/category/productos"
+              },
+              "next": {
+                "title": "CONFIGURACIÓN Uber Eats, Glovo, Etc.",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/DUNA/Duna",
+              "title": "DUNA",
+              "description": "1.\t DESCRIPCIÓN",
+              "source": "@site/docs/Maxpoint/Productos/DUNA/Duna.md",
+              "sourceDirName": "Maxpoint/Productos/DUNA",
+              "slug": "/Maxpoint/Productos/DUNA/",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/DUNA/Duna.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MANUAL DE USUARIO UBER",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER"
+              },
+              "next": {
+                "title": "Formas de Pago",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Formas de Pago/Formas de Pago",
+              "title": "Formas de Pago",
+              "description": "Para que se muestre el botón de canje de Cupones Multimarca es necesario crear en la administración una forma de pago con los siguientes datos. Es importante verificar El campo Codigo Respuesta DLL Gerente, el valor seleccionado Debe ser Cupón Prepagado.",
+              "source": "@site/docs/Maxpoint/Productos/Formas de Pago/Formas de Pago.md",
+              "sourceDirName": "Maxpoint/Productos/Formas de Pago",
+              "slug": "/Maxpoint/Productos/Formas de Pago/",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Formas de Pago/Formas de Pago.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DUNA",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/"
+              },
+              "next": {
+                "title": "URL GO TRADE",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+              "title": "URL GO TRADE",
+              "description": "1. ANTECEDENTES",
+              "source": "@site/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade.md",
+              "sourceDirName": "Maxpoint/Productos/Go_Trade",
+              "slug": "/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Formas de Pago",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/"
+              },
+              "next": {
+                "title": "TEXTO GO TRADE",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Go_Trade/Texto go trade",
+              "title": "TEXTO GO TRADE",
+              "description": "1. ANTECEDENTES",
+              "source": "@site/docs/Maxpoint/Productos/Go_Trade/Texto go trade.md",
+              "sourceDirName": "Maxpoint/Productos/Go_Trade",
+              "slug": "/Maxpoint/Productos/Go_Trade/Texto go trade",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Go_Trade/Texto go trade.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URL GO TRADE",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade"
               },
               "next": {
                 "title": "Productos",
@@ -478,6 +670,56 @@
                       {
                         "type": "doc",
                         "id": "Maxpoint/Productos/Descargar Productos y Precios"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Agregadores_Uber",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Agregadores_Uber/AGREGADORES"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Agregadores_Uber/Config-Agregadores"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "doc",
+                        "label": "DUNA",
+                        "id": "Maxpoint/Productos/DUNA/Duna"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Formas de Pago",
+                        "id": "Maxpoint/Productos/Formas de Pago/Formas de Pago"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Go_Trade",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Go_Trade/Texto go trade"
+                          }
+                        ]
                       }
                     ],
                     "link": {

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+  "title": "CONFIGURACIÓN Uber Eats, Glovo, Etc.",
+  "description": "1.\tANTECEDENTES",
+  "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES.md",
+  "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+  "slug": "/Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Productos",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios"
+  },
+  "next": {
+    "title": "CONFIGURACIÓN DE AGREGADORES.",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores"
+  }
+}

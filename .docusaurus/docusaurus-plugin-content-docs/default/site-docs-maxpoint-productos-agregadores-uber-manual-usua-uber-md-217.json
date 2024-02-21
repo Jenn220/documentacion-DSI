@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+  "title": "MANUAL DE USUARIO UBER",
+  "description": "1.\tOBJETIVOS",
+  "source": "@site/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER.md",
+  "sourceDirName": "Maxpoint/Productos/Agregadores_Uber",
+  "slug": "/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MANUAL DE CONFIGURACION PROCESO UBER",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER"
+  },
+  "next": {
+    "title": "DUNA",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/DUNA/Duna",
+  "title": "DUNA",
+  "description": "1.\t DESCRIPCIÓN",
+  "source": "@site/docs/Maxpoint/Productos/DUNA/Duna.md",
+  "sourceDirName": "Maxpoint/Productos/DUNA",
+  "slug": "/Maxpoint/Productos/DUNA/",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/DUNA/Duna.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MANUAL DE USUARIO UBER",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER"
+  },
+  "next": {
+    "title": "Formas de Pago",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/"
+  }
+}

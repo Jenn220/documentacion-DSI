@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Go_Trade/Texto go trade",
+  "title": "TEXTO GO TRADE",
+  "description": "1. ANTECEDENTES",
+  "source": "@site/docs/Maxpoint/Productos/Go_Trade/Texto go trade.md",
+  "sourceDirName": "Maxpoint/Productos/Go_Trade",
+  "slug": "/Maxpoint/Productos/Go_Trade/Texto go trade",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Go_Trade/Texto go trade.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URL GO TRADE",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade"
+  },
+  "next": {
+    "title": "Productos",
+    "permalink": "/documentacion-DSI/docs/category/productos-1"
+  }
+}

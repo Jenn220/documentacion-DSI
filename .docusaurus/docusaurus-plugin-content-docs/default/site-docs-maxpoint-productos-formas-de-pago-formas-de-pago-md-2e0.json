@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Formas de Pago/Formas de Pago",
+  "title": "Formas de Pago",
+  "description": "Para que se muestre el botón de canje de Cupones Multimarca es necesario crear en la administración una forma de pago con los siguientes datos. Es importante verificar El campo Codigo Respuesta DLL Gerente, el valor seleccionado Debe ser Cupón Prepagado.",
+  "source": "@site/docs/Maxpoint/Productos/Formas de Pago/Formas de Pago.md",
+  "sourceDirName": "Maxpoint/Productos/Formas de Pago",
+  "slug": "/Maxpoint/Productos/Formas de Pago/",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Formas de Pago/Formas de Pago.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DUNA",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/"
+  },
+  "next": {
+    "title": "URL GO TRADE",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade"
+  }
+}

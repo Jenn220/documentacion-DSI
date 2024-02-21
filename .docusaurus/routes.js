@@ -3,76 +3,111 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/documentacion-DSI/__docusaurus/debug',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug', 'ff8'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/config',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/config', '81e'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/content',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/content', '439'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/globalData',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/globalData', '0e5'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/metadata',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/metadata', '021'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/registry',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/registry', '9aa'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/routes',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/routes', '425'),
+    exact: true
+  },
+  {
     path: '/documentacion-DSI/blog',
-    component: ComponentCreator('/documentacion-DSI/blog', 'ae4'),
+    component: ComponentCreator('/documentacion-DSI/blog', '8f6'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/archive',
-    component: ComponentCreator('/documentacion-DSI/blog/archive', 'd95'),
+    component: ComponentCreator('/documentacion-DSI/blog/archive', '0d3'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/first-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/first-blog-post', '0ea'),
+    component: ComponentCreator('/documentacion-DSI/blog/first-blog-post', '15e'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/long-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/long-blog-post', 'd10'),
+    component: ComponentCreator('/documentacion-DSI/blog/long-blog-post', '317'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/mdx-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/mdx-blog-post', 'ea7'),
+    component: ComponentCreator('/documentacion-DSI/blog/mdx-blog-post', 'd7b'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags',
-    component: ComponentCreator('/documentacion-DSI/blog/tags', 'f01'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags', '25b'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/docusaurus',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/docusaurus', 'c51'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/docusaurus', 'cf3'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/facebook',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/facebook', '161'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/facebook', '48f'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/hello',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/hello', 'f58'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/hello', 'f0d'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/hola',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/hola', '78e'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/hola', '57f'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/welcome',
-    component: ComponentCreator('/documentacion-DSI/blog/welcome', '3a6'),
+    component: ComponentCreator('/documentacion-DSI/blog/welcome', 'aa6'),
     exact: true
   },
   {
     path: '/documentacion-DSI/markdown-page',
-    component: ComponentCreator('/documentacion-DSI/markdown-page', '4d9'),
+    component: ComponentCreator('/documentacion-DSI/markdown-page', 'e73'),
     exact: true
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', 'ee9'),
+    component: ComponentCreator('/documentacion-DSI/docs', '6e5'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '2dd'),
+        component: ComponentCreator('/documentacion-DSI/docs', '50c'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'b86'),
+            component: ComponentCreator('/documentacion-DSI/docs', '6ea'),
             routes: [
               {
                 path: '/documentacion-DSI/docs/category/facturación-electronica',
@@ -159,8 +194,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES', 'b00'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores', '852'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER', 'cea'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER', '9da'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios',
                 component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios', 'eb7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/DUNA',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/DUNA', '518'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago', 'acc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade', 'f2a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade', '187'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -226,7 +309,7 @@ export default [
   },
   {
     path: '/documentacion-DSI/',
-    component: ComponentCreator('/documentacion-DSI/', '11f'),
+    component: ComponentCreator('/documentacion-DSI/', 'ed1'),
     exact: true
   },
   {

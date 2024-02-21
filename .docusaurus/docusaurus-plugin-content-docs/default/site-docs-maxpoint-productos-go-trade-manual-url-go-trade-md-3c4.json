@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+  "title": "URL GO TRADE",
+  "description": "1. ANTECEDENTES",
+  "source": "@site/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade.md",
+  "sourceDirName": "Maxpoint/Productos/Go_Trade",
+  "slug": "/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formas de Pago",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/"
+  },
+  "next": {
+    "title": "TEXTO GO TRADE",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade"
+  }
+}

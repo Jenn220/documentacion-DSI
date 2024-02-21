@@ -57,6 +57,78 @@
                 "href": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios",
                 "docId": "Maxpoint/Productos/Descargar Productos y Precios",
                 "unlisted": false
+              },
+              {
+                "type": "category",
+                "label": "Agregadores_Uber",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "CONFIGURACIÓN Uber Eats, Glovo, Etc.",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+                    "docId": "Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "CONFIGURACIÓN DE AGREGADORES.",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+                    "docId": "Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "MANUAL DE CONFIGURACION PROCESO UBER",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+                    "docId": "Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "MANUAL DE USUARIO UBER",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+                    "docId": "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+                    "unlisted": false
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "label": "DUNA",
+                "href": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/",
+                "docId": "Maxpoint/Productos/DUNA/Duna",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Formas de Pago",
+                "href": "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago/",
+                "docId": "Maxpoint/Productos/Formas de Pago/Formas de Pago",
+                "unlisted": false
+              },
+              {
+                "type": "category",
+                "label": "Go_Trade",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "URL GO TRADE",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+                    "docId": "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "TEXTO GO TRADE",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade",
+                    "docId": "Maxpoint/Productos/Go_Trade/Texto go trade",
+                    "unlisted": false
+                  }
+                ]
               }
             ],
             "href": "/documentacion-DSI/docs/category/productos"
@@ -232,10 +304,58 @@
       "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
       "sidebar": "tutorialSidebar"
     },
+    "Maxpoint/Productos/Agregadores_Uber/AGREGADORES": {
+      "id": "Maxpoint/Productos/Agregadores_Uber/AGREGADORES",
+      "title": "CONFIGURACIÓN Uber Eats, Glovo, Etc.",
+      "description": "1.\tANTECEDENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Agregadores_Uber/Config-Agregadores": {
+      "id": "Maxpoint/Productos/Agregadores_Uber/Config-Agregadores",
+      "title": "CONFIGURACIÓN DE AGREGADORES.",
+      "description": "1. ANTECEDENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER": {
+      "id": "Maxpoint/Productos/Agregadores_Uber/Config-Proceso_UBER",
+      "title": "MANUAL DE CONFIGURACION PROCESO UBER",
+      "description": "1.\tOBJETIVOS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER": {
+      "id": "Maxpoint/Productos/Agregadores_Uber/Manual_Usua-UBER",
+      "title": "MANUAL DE USUARIO UBER",
+      "description": "1.\tOBJETIVOS",
+      "sidebar": "tutorialSidebar"
+    },
     "Maxpoint/Productos/Descargar Productos y Precios": {
       "id": "Maxpoint/Productos/Descargar Productos y Precios",
       "title": "Productos",
       "description": "1.\tProductos",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/DUNA/Duna": {
+      "id": "Maxpoint/Productos/DUNA/Duna",
+      "title": "DUNA",
+      "description": "1.\t DESCRIPCIÓN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Formas de Pago/Formas de Pago": {
+      "id": "Maxpoint/Productos/Formas de Pago/Formas de Pago",
+      "title": "Formas de Pago",
+      "description": "Para que se muestre el botón de canje de Cupones Multimarca es necesario crear en la administración una forma de pago con los siguientes datos. Es importante verificar El campo Codigo Respuesta DLL Gerente, el valor seleccionado Debe ser Cupón Prepagado.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade": {
+      "id": "Maxpoint/Productos/Go_Trade/Manual - URL Go Trade",
+      "title": "URL GO TRADE",
+      "description": "1. ANTECEDENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Go_Trade/Texto go trade": {
+      "id": "Maxpoint/Productos/Go_Trade/Texto go trade",
+      "title": "TEXTO GO TRADE",
+      "description": "1. ANTECEDENTES",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Restaurantes/Descargar Productos y Precios": {
