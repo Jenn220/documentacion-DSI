@@ -90,7 +90,7 @@ para ello seleccionamos la colección y presionamos sobre el botón Nuevo Parám
 
 Presionar sobre el botón **Nuevo Parámetro**, se abrirá una modal para su creación ingresando los siguientes datos:
 
-<font color="#ffff83">**Nota: NO puede contener espacios en blanco al inicio y final del parámetro; deben ser escritos tal y como se especifica en la tabla 2. Antes de agregar los parámetros de configuración debemos verificar que no se encuentren creados, de ser el caso validar que cada parámetro contenga los valores establecidos en este manual**</font>
+**Nota: NO puede contener espacios en blanco al inicio y final del parámetro; deben ser escritos tal y como se especifica en la tabla 2. Antes de agregar los parámetros de configuración debemos verificar que no se encuentren creados, de ser el caso validar que cada parámetro contenga los valores establecidos en este manual.**
 
 **Parámetro:** Nombre del parámetro que se especifica en la tabla 2.
 
