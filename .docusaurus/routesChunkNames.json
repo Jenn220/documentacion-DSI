@@ -186,17 +186,17 @@
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-6e5": {
+  "/documentacion-DSI/docs-9d6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentacion-dsi-docs-82-c-0a1"
     }
   },
-  "/documentacion-DSI/docs-50c": {
+  "/documentacion-DSI/docs-9ec": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-6ea": {
+  "/documentacion-DSI/docs-1ed": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentacion-DSI/docs/category/facturación-electronica-0f8": {
@@ -251,6 +251,22 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-kioskos-descargar-productos-y-precios-690-b90"
   },
+  "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Kiosko Configuracion Politicas-0c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-kioskos-kiosko-kiosko-configuracion-politicasf-34-615"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Kiosko Creacion Usuario-fda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-kioskos-kiosko-kiosko-creacion-usuario-355-b23"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Manual Configuracion Kioskos-2ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-kioskos-kiosko-manual-configuracion-kioskos-121-d76"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Manual de Instalacion Turnero V2-ef7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-kioskos-kiosko-manual-de-instalacion-turnero-v-2-ba-2-a5f"
+  },
   "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint-8b4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-manual-del-sistema-maxpoint-33-f-034"
@@ -271,6 +287,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-productos-agregadores-uber-manual-usua-uber-217-562"
   },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Cambio Estados por Medio/Cambio Estados Medio-d48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-cambio-estados-por-medio-cambio-estados-medioa-9-f-322"
+  },
   "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios-eb7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-productos-descargar-productos-y-precios-0-ff-62e"
@@ -278,6 +298,26 @@
   "/documentacion-DSI/docs/Maxpoint/Productos/DUNA-518": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-productos-duna-6-c-6-73a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/CONFIGURACION DE PROVEEDOR DE GESTION DE MOTORIZADOS POR MEDIO Y RESTAURANTE 1 9 15-eb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-fidelizacion-configuracion-de-proveedor-de-gestion-de-motorizados-por-medio-y-restaurante-1-9-15363-1f0"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/Manual de Usuario ADMINISTRACION CLAVES WIFI-249": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-fidelizacion-manual-de-usuario-administracion-claves-wifi-4-c-6-088"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/Manual de Usuario Fidelizacion BACKEND-200": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-fidelizacion-manual-de-usuario-fidelizacion-backend-81-a-723"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/Manual de Usuario Fidelizacion FRONTEND-f58": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-fidelizacion-manual-de-usuario-fidelizacion-fronten-da-75-a73"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/MANUAL DE USUARIO PARA LA CONFIGURACION DE GESTION MOTORIZADOS-454": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-fidelizacion-manual-de-usuario-para-la-configuracion-de-gestion-motorizados-9-c-9-cb8"
   },
   "/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago-acc": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -290,6 +330,154 @@
   "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade-187": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-productos-go-trade-texto-go-tradeb-05-e4e"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista de Agregadores-801": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-de-configuraciones-domicilio-manual-configuracion-lista-de-agregadores-7-c-4-8f1"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Locales Transferencia-999": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-de-configuraciones-domicilio-manual-configuracion-lista-locales-transferencia-9-a-8-d2e"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Medios-eea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-de-configuraciones-domicilio-manual-configuracion-lista-medios-22-b-a6e"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Motivos Transferencia Venta-cb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-de-configuraciones-domicilio-manual-configuracion-lista-motivos-transferencia-venta-236-032"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Modulo Domicilio-e54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-de-configuraciones-domicilio-manual-configuracion-modulo-domicilio-410-783"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Notificaciones-d2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-de-configuraciones-domicilio-manual-configuracion-notificacionesb-34-9ab"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Manual del sistema Maxpoint BACKEND 003-143": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-manual-del-sistema-maxpoint-backend-003290-76c"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Configuracion Mercadito-db6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-mercadito-manual-de-configuracion-mercaditob-30-007"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Configuracion URL Servicios Back20-e18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-mercadito-manual-de-configuracion-url-servicios-back-20-cae-f39"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Usuario El Mercadito-0a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-mercadito-manual-de-usuario-el-mercadito-813-d2d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Paso a Produccion Mercadito-ee8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-mercadito-paso-a-produccion-mercadito-581-6fc"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Movistar/Manual de KFC Cupones Movistar-b33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-movistar-manual-de-kfc-cupones-movistar-603-8f5"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Configuracion Politicas Servicio API Impresion-859": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-netcore-manual-configuracion-politicas-servicio-api-impresion-196-ada"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Reimpresion Configuracion Boton-d93": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-netcore-manual-reimpresion-configuracion-boton-2-e-2-1d5"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Reimpresion- Configuracion Politicas-18b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-netcore-manual-reimpresion-configuracion-politicas-492-c95"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Parte Validacion Email MXP/Parte validacion email-933": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-parte-validacion-email-mxp-parte-validacion-email-09-f-69c"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual de Configuarcion de Fidelizacion Version de Servicio v2 Restaurante-129": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-piloto-manual-de-configuarcion-de-fidelizacion-version-de-servicio-v-2-restaurantec-2-c-389"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual de Configuracion de Fidelizacion version de Servicio V2 Cadena-7dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-piloto-manual-de-configuracion-de-fidelizacion-version-de-servicio-v-2-cadena-8-de-551"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual de Configuracion de Nota de Credrito Fidelizacion de Servicio V2 Cadena-d38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-piloto-manual-de-configuracion-de-nota-de-credrito-fidelizacion-de-servicio-v-2-cadena-4-d-7-339"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual Politicas Separacion de Presas-c50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-piloto-manual-politicas-separacion-de-presasfd-0-9fc"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de Configuracion de Precio de Fantasia-f80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-precios-o-precios-de-fantasia-manual-de-configuracion-de-precio-de-fantasiabc-9-5d4"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de politicas  PRECIO FANTASIA V3-eb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-precios-o-precios-de-fantasia-manual-de-politicas-precio-fantasia-v-3235-2b4"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Visualizar Cantidad de Productos con Precio 0-739": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-precios-o-visualizar-cantidad-de-productos-con-precio-0-ad-1-48f"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Preguntas Forzadas Agregadores/Manual de Menu y Preguntas Sugeridas-3bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-preguntas-forzadas-agregadores-manual-de-menu-y-preguntas-sugeridas-0-c-4-358"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/MACROMATIX/TestCases/TEST CASES AZURE KFC CONNECT MACROMATIX-89c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-macromatix-test-cases-test-cases-azure-kfc-connect-macromatix-0-b-4-cc6"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/MACROMATIX/TestCases/TEST CASES KFC CONNECT MACROMATIX-fbf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-macromatix-test-cases-test-cases-kfc-connect-macromatix-155-c5c"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/Manuales/MANUAL DE FUNCIONALIDADES INTEGRACION DE SIR QPM BACKOFFICE-3f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-qpm-manuales-manual-de-funcionalidades-integracion-de-sir-qpm-backoffic-ec-9-f-7fa"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/Manuales/Manual de usuario Integracion SIR QPM BackOffice-640": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-qpm-manuales-manual-de-usuario-integracion-sir-qpm-back-office-955-1c4"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/Manuales/Manual Integracion con QPM Kitchen Brain-301": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-qpm-manuales-manual-integracion-con-qpm-kitchen-braina-5-f-17a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/TestCases/Test Case AdministracionArticulosQPM-6a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-qpm-test-cases-test-case-administracion-articulos-qp-mad-0-75e"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/TestCases/Test Case QPM Service-1ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-qpm-test-cases-test-case-qpm-servicea-37-e01"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/RESTAURANTE/Manuales/MANUAL DE USUARIO PARA LA CONFIGURACION DE GESTION MOTORIZADOS-875": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-restaurante-manuales-manual-de-usuario-para-la-configuracion-de-gestion-motorizado-sfcf-841"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/QPM/RESTAURANTE/TestCase/TEST CASE CONFIGURACION DE PROVEEDOR DE GESTION DE MOTORIZADOS POR MEDIO Y RESTAURANTE-6cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-qpm-restaurante-test-case-test-case-configuracion-de-proveedor-de-gestion-de-motorizados-por-medio-y-restaurante-96-c-558"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Tipo de Venta/Manual Tipo de Venta-43b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-tipo-de-venta-manual-tipo-de-venta-720-67f"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual Configuracion Politicas Usuarios Tipo Canal-0d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-usuario-manual-configuracion-politicas-usuarios-tipo-canal-5-f-9-23b"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual de Usuario Politica Concurrencia Menu-ef4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-usuario-manual-de-usuario-politica-concurrencia-menuf-2-a-ab0"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2-450": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-usuario-manual-del-sistema-maxpoint-backend-ver-25-a-6-46e"
   },
   "/documentacion-DSI/docs/Maxpoint/Restaurantes/Descargar Productos y Precios-0fb": {
     "__comp": "__comp---theme-doc-item-178-a40",

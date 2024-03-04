@@ -36,6 +36,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Maxpoint/Kioskos/Kiosko/Kiosko Configuracion Politicas",
+              "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Kiosko Configuracion Politicas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Kioskos/Kiosko/Kiosko Creacion Usuario",
+              "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Kiosko Creacion Usuario",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Kioskos/Kiosko/Manual Configuracion Kioskos",
+              "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Manual Configuracion Kioskos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Kioskos/Kiosko/Manual de Instalacion Turnero V2",
+              "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Kiosko/Manual de Instalacion Turnero V2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Maxpoint/Manual del Sistema Maxpoint",
               "path": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint",
               "sidebar": "tutorialSidebar"
@@ -61,6 +81,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Maxpoint/Productos/Cambio Estados por Medio/Cambio Estados Medio",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Cambio Estados por Medio/Cambio Estados Medio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Maxpoint/Productos/Descargar Productos y Precios",
               "path": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
@@ -68,6 +93,31 @@
             {
               "id": "Maxpoint/Productos/DUNA/Duna",
               "path": "/documentacion-DSI/docs/Maxpoint/Productos/DUNA/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Fidelizacion/CONFIGURACION DE PROVEEDOR DE GESTION DE MOTORIZADOS POR MEDIO Y RESTAURANTE 1 9 15",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/CONFIGURACION DE PROVEEDOR DE GESTION DE MOTORIZADOS POR MEDIO Y RESTAURANTE 1 9 15",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Fidelizacion/Manual de Usuario ADMINISTRACION CLAVES WIFI",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/Manual de Usuario ADMINISTRACION CLAVES WIFI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Fidelizacion/Manual de Usuario Fidelizacion BACKEND",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/Manual de Usuario Fidelizacion BACKEND",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Fidelizacion/Manual de Usuario Fidelizacion FRONTEND",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/Manual de Usuario Fidelizacion FRONTEND",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Fidelizacion/MANUAL DE USUARIO PARA LA CONFIGURACION DE GESTION MOTORIZADOS",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Fidelizacion/MANUAL DE USUARIO PARA LA CONFIGURACION DE GESTION MOTORIZADOS",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -83,6 +133,191 @@
             {
               "id": "Maxpoint/Productos/Go_Trade/Texto go trade",
               "path": "/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Texto go trade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista de Agregadores",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista de Agregadores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Locales Transferencia",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Locales Transferencia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Medios",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Medios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Motivos Transferencia Venta",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Lista Motivos Transferencia Venta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Modulo Domicilio",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Modulo Domicilio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Notificaciones",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual de Configuraciones_Domicilio/Manual Configuracion Notificaciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Manual del sistema Maxpoint BACKEND 003/Manual del sistema Maxpoint BACKEND 003",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Manual del sistema Maxpoint BACKEND 003/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Mercadito/Manual de Configuracion Mercadito",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Configuracion Mercadito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Mercadito/Manual de Configuracion URL Servicios Back20",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Configuracion URL Servicios Back20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Mercadito/Manual de Usuario El Mercadito",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Usuario El Mercadito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Mercadito/Paso a Produccion Mercadito",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Paso a Produccion Mercadito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Movistar/Manual de KFC Cupones Movistar",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Movistar/Manual de KFC Cupones Movistar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/NETCORE/Manual Configuracion Politicas Servicio API Impresion",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Configuracion Politicas Servicio API Impresion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/NETCORE/Manual Reimpresion Configuracion Boton",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Reimpresion Configuracion Boton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/NETCORE/Manual Reimpresion- Configuracion Politicas",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Reimpresion- Configuracion Politicas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Parte Validacion Email MXP/Parte validacion email",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Parte Validacion Email MXP/Parte validacion email",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Piloto/Manual de Configuarcion de Fidelizacion Version de Servicio v2 Restaurante",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual de Configuarcion de Fidelizacion Version de Servicio v2 Restaurante",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Piloto/Manual de Configuracion de Fidelizacion version de Servicio V2 Cadena",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual de Configuracion de Fidelizacion version de Servicio V2 Cadena",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Piloto/Manual de Configuracion de Nota de Credrito Fidelizacion de Servicio V2 Cadena",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual de Configuracion de Nota de Credrito Fidelizacion de Servicio V2 Cadena",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Piloto/Manual Politicas Separacion de Presas",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual Politicas Separacion de Presas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de Configuracion de Precio de Fantasia",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de Configuracion de Precio de Fantasia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de politicas  PRECIO FANTASIA V3",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de politicas  PRECIO FANTASIA V3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Precios O/Visualizar Cantidad de Productos con Precio 0",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Visualizar Cantidad de Productos con Precio 0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Preguntas Forzadas Agregadores/Manual de Menu y Preguntas Sugeridas",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Preguntas Forzadas Agregadores/Manual de Menu y Preguntas Sugeridas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/MACROMATIX/TestCases/TEST CASES AZURE KFC CONNECT MACROMATIX",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/MACROMATIX/TestCases/TEST CASES AZURE KFC CONNECT MACROMATIX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/MACROMATIX/TestCases/TEST CASES KFC CONNECT MACROMATIX",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/MACROMATIX/TestCases/TEST CASES KFC CONNECT MACROMATIX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/QPM/Manuales/MANUAL DE FUNCIONALIDADES INTEGRACION DE SIR QPM BACKOFFICE",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/Manuales/MANUAL DE FUNCIONALIDADES INTEGRACION DE SIR QPM BACKOFFICE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/QPM/Manuales/Manual de usuario Integracion SIR QPM BackOffice",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/Manuales/Manual de usuario Integracion SIR QPM BackOffice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/QPM/Manuales/Manual Integracion con QPM Kitchen Brain",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/Manuales/Manual Integracion con QPM Kitchen Brain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/QPM/TestCases/Test Case AdministracionArticulosQPM",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/TestCases/Test Case AdministracionArticulosQPM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/QPM/TestCases/Test Case QPM Service",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/QPM/TestCases/Test Case QPM Service",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/RESTAURANTE/Manuales/MANUAL DE USUARIO PARA LA CONFIGURACION DE GESTION MOTORIZADOS",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/RESTAURANTE/Manuales/MANUAL DE USUARIO PARA LA CONFIGURACION DE GESTION MOTORIZADOS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/QPM/RESTAURANTE/TestCase/TEST CASE CONFIGURACION DE PROVEEDOR DE GESTION DE MOTORIZADOS POR MEDIO Y RESTAURANTE",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/QPM/RESTAURANTE/TestCase/TEST CASE CONFIGURACION DE PROVEEDOR DE GESTION DE MOTORIZADOS POR MEDIO Y RESTAURANTE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Tipo de Venta/Manual Tipo de Venta",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Tipo de Venta/Manual Tipo de Venta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Usuario/Manual Configuracion Politicas Usuarios Tipo Canal",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual Configuracion Politicas Usuarios Tipo Canal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Usuario/Manual de Usuario Politica Concurrencia Menu",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual de Usuario Politica Concurrencia Menu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2",
               "sidebar": "tutorialSidebar"
             },
             {
